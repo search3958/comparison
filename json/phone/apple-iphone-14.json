@@ -1,0 +1,21 @@
+{
+  "manufacturer": "Apple",
+  "model": "iPhone 14",
+  "release_date": "2023/09/14",
+  "specs": {
+    "display": "6.1-inch OLED",
+    "processor": "A15 Bionic",
+    "memory": "4GB",
+    "storage_options": ["128GB", "256GB", "512GB"],
+    "camera": {
+      "rear": "12MP Dual",
+      "front": "12MP"
+    },
+    "battery": "3110mAh",
+    "os": "iOS 17",
+    "price": {
+      "base": 799,
+      "currency": "USD"
+    }
+  }
+}
